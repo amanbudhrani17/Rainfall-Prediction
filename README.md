@@ -1,8 +1,8 @@
-# Fifth Semester Project
+# Third Year Project
 
 ## Title: Weather Forecasting and Prediction
 
-This is my Final Year Project on Weather Forecasting and prediction. I have built this on Artificial Neural Network with Back Propagation.
+This is my fifth semester group project on Rainfall Prediction. We have build four model Logistic Regression, Random Forest, Neral Network and Decision Tree.
 
 ### Software Used:
 
@@ -21,18 +21,11 @@ This is my Final Year Project on Weather Forecasting and prediction. I have buil
 
 - NASA Power LARC API to fetch the weather data.
 
-## Neural Network:
-
-- We have made 4 layer neural network. 1 input, 2 hidden and 1 output layer.
-- The input layer has 6 neurons representing the 6 weather attributes.
-- The 2 hidden layers have 8 neurons each.
-- The output layer has 6 neurons as the 6 attributes.
-
 ## How to run:
 
 - Download the code, You need nothing else.
 - Make sure you have active network, for the NASA Power LARC API to fetch weather data.
-- Open the main.py in the Jupyter Notebook.
+- Open the RFmodel.ipynb in the Jupyter Notebook.
 - Enter the starting date, ending date and location.
 - You will get the accuracy of the model.
 - You can also type the previous day parameters to get 24 Hour predicted value.
