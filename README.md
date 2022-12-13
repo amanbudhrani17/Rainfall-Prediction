@@ -1,6 +1,6 @@
 # Third Year Project
 
-## Title: Weather Forecasting and Prediction
+## Title: Rainfall Prediction
 
 This is my fifth semester group project on Rainfall Prediction. We have build four model Logistic Regression, Random Forest, Neral Network and Decision Tree.
 
